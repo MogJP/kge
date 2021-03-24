@@ -1,6 +1,9 @@
 # KGE
+```
 KrunkGroupEditor. User-Friendly & Extensive & Reflect an opinion from community!
 It can edit any property.
+Unzip and use it.
+```
 ![image](https://user-images.githubusercontent.com/81292406/112282794-cae1a500-8cca-11eb-816d-9f6939c1fff8.png)
 
 ## Easy Json Parser (user-friendly mode)
