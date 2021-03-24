@@ -26,16 +26,16 @@ tin | Target
 ```
 ```
 - If theres no property, try this -
-1.1 I recommend you to turn on "Quick GUI" from editor setting.(my favorite is "middle click")
-1.2 Middle Click object -> JSON -> copy and paste it to somewhere
-1.3 Select the object of 1.2 and change the property what you want to edit in this software.
-1.4 Middle Click object of 1.3 -> JSON -> copy and paste
-1.5 Compare the 2 json data. if you find diffrence, thats the property!
+1 I recommend you to turn on "Quick GUI" from editor setting.(my favorite is "middle click")
+2 Middle Click object -> JSON -> copy and paste it to somewhere
+3 Select the object of 1.2 and change the property what you want to edit in this software.
+4 Middle Click object of 1.3 -> JSON -> copy and paste
+5 Compare the 2 json data. if you find diffrence, thats the property!
 
-1.5.1 For example, if you change cube interface id from 0 to 10, json will be like this:
-1.5.2 Before : [{"p":[-1,16,67],"s":[10,10,10]}]
-1.5.3 After changing property : [{"p":[-1,16,67],"s":[10,10,10],"in":10}]
-1.5.4 "in": 10 is interface id. say more, "in" is the property and 10 is value.
+1 For example, if you change cube interface id from 0 to 10, json will be like this:
+2 Before : [{"p":[-1,16,67],"s":[10,10,10]}]
+3 After changing property : [{"p":[-1,16,67],"s":[10,10,10],"in":10}]
+4 "in": 10 is interface id. say more, "in" is the property and 10 is value.
 
-1.6  I would appreciate if you send me Advanced-property & in-game-property via suggestions/bugreports button.
+:) I would appreciate if you send me Advanced-property & in-game-property via suggestions/bugreports button.
 ```
