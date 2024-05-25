@@ -1,6 +1,6 @@
 # KGE
 ```
-KrunkGroupEditor. User-Friendly & Extensive & Reflect an opinion from community!
+KrunkGroupEditor. User-Friendly & Extensive
 It can edit any property.
 Unzip and use it.
 ```
