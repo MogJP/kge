@@ -2,7 +2,7 @@
 ```
 KrunkGroupEditor. User-Friendly & Extensive
 It can edit any property.
-Unzip and use it.
+Unzip to use it.
 ```
 ![image](https://user-images.githubusercontent.com/81292406/112314735-b6160900-8cec-11eb-8c65-fdffbf0f8260.png)
 
